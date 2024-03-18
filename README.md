@@ -15,7 +15,6 @@ This is a simple movie recommendation system built using Python and Streamlit. T
 ### File Structure
 
 - *movie_recommendation.py*: Contains the Python code for preprocessing, model building, and recommendation functions.
-- *app.py*: Streamlit web application code to interact with the recommendation system.
 - *tmdb_5000_movies.csv*: Dataset containing movie details.
 - *tmdb_5000_credits.csv*: Dataset containing movie credits.
 
